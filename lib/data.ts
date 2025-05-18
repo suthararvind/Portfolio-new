@@ -1,7 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import BurgerMart from "@/public/BurgerMart.png";
-import J1 from "@/public/j1.png";
+import J1 from "@/public/J1.png";
 
 export const links = [ 
   {
